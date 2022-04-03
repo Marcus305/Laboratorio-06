@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1648307819 source:c:\users\marcu\desktop\lab 06\geracao.c
+	"geracao.h"
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<stdint.h>
+
+1648307771 c:\users\marcu\desktop\lab 06\geracao.h
+	<stdbool.h>
+	<stdint.h>
+
+1648997284 source:c:\users\marcu\desktop\lab 06\selecao.c
+	"selecao.h"
+	"stdio.h"
+
+1648308005 c:\users\marcu\desktop\lab 06\selecao.h
+	"geracao.h"
+
+1648953587 source:c:\users\marcu\desktop\lab 06\bolha.c
+	"geracao.h"
+	"bolha.h"
+	<stdio.h>
+
+1648348436 c:\users\marcu\desktop\lab 06\bolha.h
+	"geracao.h"
+
+1648317138 source:c:\users\marcu\desktop\lab 06\countingsort.c
+	"geracao.h"
+	"countingsort.h"
+
+1648317138 c:\users\marcu\desktop\lab 06\countingsort.h
+
+1648317138 source:c:\users\marcu\desktop\lab 06\heapsort.c
+	"heapsort.h"
+
+1648317138 c:\users\marcu\desktop\lab 06\heapsort.h
+	<stdint.h>
+	<stdlib.h>
+	"geracao.h"
+
+1649001135 source:c:\users\marcu\desktop\lab 06\insercao.c
+	"insercao.h"
+	<stdio.h>
+
+1648395697 c:\users\marcu\desktop\lab 06\insercao.h
+	"geracao.h"
+
+1648317138 source:c:\users\marcu\desktop\lab 06\mergesort.c
+	"mergesort.h"
+	<stdlib.h>
+
+1648317138 c:\users\marcu\desktop\lab 06\mergesort.h
+	"geracao.h"
+
+1648317138 source:c:\users\marcu\desktop\lab 06\quicksort.c
+	"quicksort.h"
+	<stdio.h>
+
+1648317138 c:\users\marcu\desktop\lab 06\quicksort.h
+	"geracao.h"
+
+1648317138 source:c:\users\marcu\desktop\lab 06\shellsort.c
+	"shellsort.h"
+
+1648317138 c:\users\marcu\desktop\lab 06\shellsort.h
+	"geracao.h"
+
+1649003033 source:c:\users\marcu\desktop\lab 06\main.c
+	"bolha.h"
+	"countingsort.h"
+	"heapsort.h"
+	"insercao.h"
+	"mergesort.h"
+	"quicksort.h"
+	"selecao.h"
+	"shellsort.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdlib.h>
+	<stdint.h>
+	<windows.h>
+	<winbase.h>
+	<psapi.h>
+
